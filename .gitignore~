@@ -99,6 +99,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-# secret key
-mysite/keys.txt
